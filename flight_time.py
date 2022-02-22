@@ -1,7 +1,4 @@
 
-from unittest import result
-
-
 def flight_calculation():
     input1 = input()
     input2 = input()
