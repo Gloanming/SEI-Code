@@ -85,4 +85,5 @@ def flight_calculation():
         outmin -= 60
         outhour += 1
     print('{:0>2d}:{:0>2d}:{:0>2d}'.format(outhour, outmin, outsecond))
+
     # enter your code here
